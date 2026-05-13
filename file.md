@@ -36,7 +36,7 @@ flowchart TD
     NOTIFY_ERR --> THROW[Lanzar excepción]
     
     style A fill:#f9f,stroke:#333
-    style F6 fill:#ff9,stroke:#333
+    style F6 fill:#f66,stroke:#333
     style F11 fill:#9f9,stroke:#333
     style G5 fill:#9f9,stroke:#333
     style THROW fill:#f66,stroke:#333
