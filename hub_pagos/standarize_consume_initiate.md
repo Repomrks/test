@@ -236,18 +236,3 @@ graph TB
     T3 --- T4
     T4 --- T5
 ```
-
----
-
-### Resumen de Tecnologias
-
-| Componente | Tecnologia |
-|---|---|
-| Runtime | Node.js 22.x (AWS Lambda) |
-| Framework | NestJS (Application Context) |
-| Base de datos | PostgreSQL (TypeORM) |
-| Storage | AWS S3 |
-| Mensajeria | Apache Kafka (Self-Managed) |
-| Configuracion | AWS Parameter Store / Secrets Manager |
-| CI/CD | GitLab CI/CD |
-| Contenedor build | Docker (Alpine + zip) |
